@@ -1,4 +1,3 @@
-Bronze in leage
 
 C++
 
